@@ -1,0 +1,3 @@
+01/10/2014 16:31:37 devpinoyLogger $$$$Starting the Execution of the Test Case : ----> testLoginAFVAgent$$$$
+01/10/2014 16:31:42 devpinoyLogger ****Launching the first browser --> mozilla****
+01/10/2014 16:31:49 devpinoyLogger ****Navigating to the URL --> https://afv-staging.app.247-inc.net/#!/login****
